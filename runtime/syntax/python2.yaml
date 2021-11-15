@@ -34,7 +34,7 @@ rules:
         end: "\"\"\""
         rules: []
 
-    - constant.string:
+    - comment:
         start: "'''"
         end: "'''"
         rules: []
